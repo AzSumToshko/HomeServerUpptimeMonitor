@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/carzup.world.ico",
     "slug": "home-server",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 139,
-    "timeDay": 139,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-11-25": 13
+      "2024-11-25": 20
     }
   }
 ]
